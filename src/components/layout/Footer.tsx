@@ -57,9 +57,9 @@ export function Footer() {
         <div>
           <h5 className="font-medium text-base mb-4">Hubungi Kami</h5>
           <ul className="space-y-2 text-sm">
-            <li className="text-muted-foreground">Email: contact@agritechhub.com</li>
-            <li className="text-muted-foreground">Telepon: +1 (555) 123-4567</li>
-            <li className="text-muted-foreground">Alamat: Jl. Inovasi No. 123, Lembah Pertanian, Jakarta 12345</li>
+            <li className="text-muted-foreground">Email: 2305010010@wbi.ac.id</li>
+            <li className="text-muted-foreground">Telepon: 082165646610</li>
+            <li className="text-muted-foreground">Alamat: Laut Dendang, Jl. Warakauri, Kec. Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20371</li>
           </ul>
         </div>
       </div>
